@@ -8,4 +8,4 @@ Built with:
 - CSS  
 - JavaScript
 
-Feel free to clone it and give it a try!
+Feel free to clone it and give it a try 🎉!
